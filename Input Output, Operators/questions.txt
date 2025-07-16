@@ -1,0 +1,26 @@
+1. Rajesh’s basic salary is input through the keyboard. His dearness allowance is 40% of basic salary, and house rent allowance is 20% of basic salary. Write a program to calculate his gross salary.
+
+2. The distance between two cities (in km.) is input through the keyboard. Write a program to convert and print this distance in meters, feet, inches and centimeters..
+
+3. If a five-digit number is input through the keyboard, write a program to calculate the sum of its digits. (Hint: Use the modulus operator ‘%’)
+
+4. If a five-digit number is input through the keyboard, write a program to reverse the number.
+
+5. If a four-digit number is input through the keyboard, write a program to obtain the sum of the first and last digit of this number.
+
+6. Enter the temperature in Celsius and convert that into Fahrenheit.
+
+7. Accept the radius of the circle and calculate the area and perimeter of the circle.
+
+8. Write a program to accept the number in decimal and print the number in octal and
+hexadecimal. ,
+
+9. Accept any five digit number and print the value of remainder after dividing by 3.
+
+10.Accept any two numbers, if the first number is greater than second then print the sum of these two numbers, otherwise print their difference.
+
+11.Write this program using ternary operator.
+
+12.Write a program to accept the principal, rate, and number of years and find out the simple interest.
+
+13.Accepts marks in five subjects and calculate the total percentage marks.
