@@ -1,0 +1,45 @@
+1. A positive integer is entered through the keyboard; write a program to obtain the prime factors of the number. Modify the function suitably to obtain the prime factors recursively
+
+2. Write a recursive function to obtain the first 25 numbers of a Fibonacci sequence. In a Fibonacci sequence the sum of two successive terms gives the third term. Following are the first few terms of the Fibonacci sequence: 1 1 2 3 5 8 13 21 34 55 89...
+
+3. A positive integer is entered through the keyboard; write a function to find the binary equivalent of this number using recursion.
+
+4. Write a C function to evaluate the series sin(x) = x − (x 3 / 3!) + (x 5 / 5!) − (x 7 / 7!) +……… to five significant digits.
+
+5. If the lengths of the sides of a triangle are denoted by a, b, and c, then area of triangle is given by Area = √𝑆(𝑆 − 𝑎)(𝑆 − 𝑏)(𝑆 − 𝑐) Where, S = ( a + b + c ) / 2
+
+6. Write a program to find out the roots of quadratic equation ax2 + bx + c = O
+
+7. Write a function that accepts a character in lower case and returns its upper case equivalent
+
+8. Write a program to print number in words using recursion. For example if we have a number 31246, then the program should print " Three one Two four Six
+
+9. Write a function cube sum ( ) that accepts an integer and returns the sum of the cubes of individual digits of that number. Use this program to print Armstrong numbers in a given range.
+
+10. Write a C program to print all natural numbers between 1 to n using recursion.
+
+11.Write a C program to print all even or odd numbers in given range using recursion .
+
+12.Write a C program to find sum of all natural numbers between 1 to n using recursion.13.Write a C program to find sum of all even or odd numbers in given range using recursion.
+
+14.Write a C program to find reverse of any number using recursion.
+
+15.Write a C program to check whether a number is palindrome or not using recursion.
+
+16.Write a C program to find sum of digits of a given number using recursion.
+
+17.Write a C program to find factorial of any number using recursion.
+
+18.Write a C program to generate nth Fibonacci term using recursion.
+
+19.Write a C program to find GCD (HCF) of two numbers using recursion.
+
+20.Write a C program to find LCM of two numbers using recursion.
+
+21.Write a C program to display all array elements using recursion.
+
+22.Write a C program to find sum of elements of array using recursion.
+
+23.Write a C program to find maximum and minimum elements in array using recursion.
+
+
